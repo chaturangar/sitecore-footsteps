@@ -67,6 +67,9 @@
   <ItemGroup>
     <Content Include="App_Config\Include\SitecoreFootsteps.Module.Tooltip.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="sitecore modules\SitecoreFootsteps\QuickInfoTooltip\Scripts\item.tooltip.js" />
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
